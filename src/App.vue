@@ -1,16 +1,16 @@
 <template>
-  <div id="app">
-    <parent-component></parent-component>
-  </div>
+  <q-layout view="lHh lpr lFf">
+    <landing-page></landing-page>
+  </q-layout>
 </template>
 
 <script>
-import ParentComponent from './components/ParentComponent.vue';
+import LandingPage from './components/LandingPage.vue';
 
 export default {
   name: 'App',
   components: {
-    ParentComponent,
+    LandingPage,
   },
 };
 </script>

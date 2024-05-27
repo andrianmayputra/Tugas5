@@ -3,6 +3,7 @@
 import { createApp } from 'vue'
 import { Quasar } from 'quasar'
 import ParentComponent from './components/ParentComponent.vue'; // Impor ParentComponent
+import LandingPage from './components/LandingPage.vue';
 
 // Import icon libraries
 import '@quasar/extras/material-icons/material-icons.css'
