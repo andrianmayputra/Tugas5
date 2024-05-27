@@ -43,17 +43,17 @@ export default {
     return {
       products: [
         {
-          image: 'public/images/sepatufutsal1.jpeg',
+          image: '/images/sepatufutsal1.jpeg',
           title: 'Futsal Shoes 1',
           price: 'Rp.499.000',
         },
         {
-          image: 'public/images/sepatu.jpeg',
+          image: '/images/sepatu.jpeg',
           title: 'Futsal Shoes 2',
           price: 'Rp.599.000',
         },
         {
-          image: 'public/images/futsal.jpeg',
+          image: '/images/futsal.jpeg',
           title: 'Futsal Shoes 3',
           price: 'Rp.450.000',
         },
