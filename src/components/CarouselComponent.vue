@@ -12,7 +12,7 @@
     data() {
       return {
         images: [
-          'src/tokosepatu.jpeg',
+          '/images/tokosepatu.jpeg',
           'https://via.placeholder.com/800x300?text=Slide+2',
           'https://via.placeholder.com/800x300?text=Slide+3',
         ],
